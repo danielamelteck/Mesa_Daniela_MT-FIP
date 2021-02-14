@@ -1,0 +1,10 @@
+img{
+-webkit-transition: all is ease;
+-moz-transition: all is ease;
+
+}
+
+img:hover{
+	width:600px;
+	height:350px;
+}
