@@ -1,0 +1,255 @@
+Project 3- Daniela Mesa 
+
+
+Container
+
+width: 1920px
+margin: 0 auto
+
+Header
+
+width:  1920px
+height: 110px
+	
+
+Logo
+	
+background-color: #555454
+width: 230px
+height: 100px
+margin-top: 38px
+margin-left: 38px
+margin-bottom: 101px
+
+
+#nav1
+	
+background-color: #555454
+width: 855px
+height: 40px
+margin-top: 38px
+margin-bottom: 17px
+margin-right: 77px
+	
+
+#nav2
+
+background-color:  #555454
+width: 244px
+height: 50px
+margin-right: 77px
+margin-bottom: 90px
+margin-left: auto
+
+
+Hero (Main Image)
+
+width: 940px
+Height:618px
+
+
+ImageBlack (Hero-Promo)
+
+background-color:#717070
+width: 940px
+Height:618px
+margin-left: 22px
+margin-bottom: 23px
+
+
+Promo text
+
+background-color: #555454
+width: 850px
+height: 145px
+margin-bottom: 40px
+margin-right: 60px
+
+
+
+Text
+
+background-color:#555454
+width: 778px
+height: 178px
+margin-right: 127px
+margin-left: 57px	
+
+
+Button
+
+background-color: #555454
+width:  55px
+height:  53px
+margin-top: 58px
+margin-left: 58px
+margin-bottom: 55px
+
+
+Text1
+
+background-color: #555454
+width:  160px
+height:  53px
+margin-top: 58px
+Margin-left: 58px
+margin-bottom: 55px
+
+
+
+Information
+
+background-color:#555454
+width: 164px
+height: 160px
+margin-bottom: 200px
+
+Policies
+
+background-color: #555454
+width: 164px
+height: 160px
+margin-bottom: 200px
+
+Employment
+
+background-color: #555454
+width: 164px
+height: 160px
+margin-bottom: 200px
+
+
+Footer
+
+width: 1920px
+height: 212px
+background-color: #AAAAA9
+
+Image1
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer1 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+Image2
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer2 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+
+Image3
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer3 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+Image4
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer4 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+
+
+
+Image5
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer5 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+Image6
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer6 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+Image7
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer7 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+Image8
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer8 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+Image9
+background-color: #555454
+width: 415px
+height: 261px
+Margin-top: 137px
+Margin-right:55px
+Margin-bottom:17
+
+Beer9 (Button)
+width: 158px
+height: 50px
+background-color: #FFFFFF
+
+
+
+FONTS:
+Bodoni 72
+Charter
+Arial
+Malayalam Sangam MN
